@@ -80,3 +80,15 @@ git checkout -- file_1 file_2
  git merge remotes/online_repo/master
  git pull <online repo>  <online branch >
  git branch -d rm  main  branch_1
+ 
+&&&&&&&&&&&&&&&احمد سامي &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+git config --global core.editor notepad++
+
+git init 
+git status 
+git ls-files
+
+git cat-file -t <sha>
+git cat-file -s <sha>
+git cat-file -p <sha>
