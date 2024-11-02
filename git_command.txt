@@ -94,3 +94,5 @@ git cat-file -t <sha>
 git cat-file -s <sha>
 git cat-file -p <sha>
 
+git diff 
+git diff --staged
