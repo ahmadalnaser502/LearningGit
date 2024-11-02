@@ -87,8 +87,10 @@ git config --global core.editor notepad++
 
 git init 
 git status 
+git status -s 
 git ls-files
 
 git cat-file -t <sha>
 git cat-file -s <sha>
 git cat-file -p <sha>
+
