@@ -96,3 +96,5 @@ git cat-file -p <sha>
 
 git diff 
 git diff --staged
+
+git log --oneline
