@@ -123,3 +123,8 @@ git tag -a v0.2 -m "this is version 2 "
 
 git bracnh 
 git branch test_branch_1
+
+git merge <branch name>
+git switch <branch name >
+git branch -d <branch name>
+git branch --merged
