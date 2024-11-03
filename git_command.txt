@@ -110,6 +110,11 @@ git rm
 git rm --cached .
 git restore . 
 git restore --staged . 
+
+git commit -amend
+git reset HEAD~1
+git reset --hard head 
+
 test 1 
 
 
