@@ -114,3 +114,12 @@ git restore --staged .
 git commit -amend
 git reset HEAD~1
 git reset --hard head 
+git reflog
+git reset head@{2}
+
+git tag -a v0.2 -m "this is version 2 "
+
+--Branches 
+
+git bracnh 
+git branch test_branch_1
