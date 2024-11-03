@@ -109,3 +109,5 @@ git rm
 --undo commands 
 git rm --cached .
 git restore . 
+git restore --staged . 
+test 1 
