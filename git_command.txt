@@ -102,3 +102,8 @@ git log --oneline
 git show <commit sha>
 
 git diff <commit_1>..<commit_3 >
+
+git mv 
+git rm 
+
+git rm --cached .
