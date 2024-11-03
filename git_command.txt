@@ -128,3 +128,8 @@ git merge <branch name>
 git switch <branch name >
 git branch -d <branch name>
 git branch --merged
+
+git clone <URL> <name filder>
+git branch -r 
+
+git push -us origin <branch name>
