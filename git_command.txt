@@ -106,4 +106,6 @@ git diff <commit_1>..<commit_3 >
 git mv 
 git rm 
 
+--undo commands 
 git rm --cached .
+git restore . 
